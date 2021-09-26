@@ -8,7 +8,7 @@ const CONFIG = {
    */
   commands: [{
       name: 'DuckDuckGo',
-      key: 'gg',
+      key: '*',
       url: 'https://google.com',
       search: '/search?q={}'
     },
