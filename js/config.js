@@ -7,10 +7,10 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Duckduckgo',
-      key: '*',
+      name: 'Google',
+      key: 'gg',
       url: 'https://google.com',
-      search: '/google/search?q={}'
+      search: '/search?q={}'
     },
     {
       category: 'General',
