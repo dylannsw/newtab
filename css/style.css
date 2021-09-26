@@ -154,7 +154,7 @@ template {
 :root {
   /* colors */
   --background: ##171d20;
-  --foreground: #d4b577;
+  --foreground: #f1f1f1;
 
   /* fonts */
   --base-font-size: 18px;
