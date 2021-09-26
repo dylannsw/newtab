@@ -9,8 +9,8 @@ const CONFIG = {
   commands: [{
       name: 'Duckduckgo',
       key: '*',
-      url: 'https://duckduckgo.com',
-      search: '/?q={}'
+      url: 'https://google.com',
+      search: '/google/search?q={}'
     },
     {
       category: 'General',
