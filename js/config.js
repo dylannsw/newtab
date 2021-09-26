@@ -7,9 +7,9 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Duckduckgo',
-      key: '*',
-      url: 'https://duckduckgo.com',
+      name: 'Google',
+      key: 'gg',
+      url: 'https://google.com',
       search: '/?q={}'
     },
     {
@@ -230,15 +230,15 @@ const CONFIG = {
    */
   influencers: [{
       name: 'Commands',
-      limit: 2
+      limit: 0
     },
     {
       name: 'Default',
-      limit: 4
+      limit: 0
     },
     {
       name: 'History',
-      limit: 1
+      limit: 4
     },
     {
       name: 'DuckDuckGo',
@@ -273,12 +273,12 @@ const CONFIG = {
   /**
    * Invert color theme
    */
-  invertedColors: false,
+  invertedColors: true,
 
   /**
    * Show keys instead of icons
    */
-  showKeys: false,
+  showKeys: true,
 
   /**
    * The delimiter between a command key and your search query. For example,
