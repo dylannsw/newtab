@@ -7,9 +7,9 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Google',
-      key: 'gg',
-      url: 'https://google.com',
+      name: 'Duckduckgo',
+      key: '*',
+      url: 'https://duckduckgo.com',
       search: '/?q={}'
     },
     {
@@ -273,7 +273,7 @@ const CONFIG = {
   /**
    * Invert color theme
    */
-  invertedColors: true,
+  invertedColors: false,
 
   /**
    * Show keys instead of icons
