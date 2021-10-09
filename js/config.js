@@ -73,9 +73,9 @@ const CONFIG = {
     },
     {
       category: 'Programming',
-      name: 'StackOverflow',
-      key: 'st',
-      url: 'https://stackoverflow.com',
+      name: 'Profiles',
+      key: 'p',
+      url: 'about:profiles',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #53341C, #F48024)',
       icon: 'stackoverflow',
