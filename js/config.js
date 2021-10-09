@@ -78,7 +78,7 @@ const CONFIG = {
       url: 'https://www.webfx.com/web-design/color-picker',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #53341C, #F48024)',
-      icon: 'stackoverflow',
+      icon: 'colourpicker',
       quickLaunch: true,
     },
     {
@@ -189,7 +189,7 @@ const CONFIG = {
       url: 'https://monkeytype.com',
       search: '/search/results/all/?keywords={}',
       color: 'linear-gradient(93deg, rgba(23,29,32,1) 0%, rgba(52,52,59,1) 32%, rgba(255,202,97,1) 100%)',
-      icon: 'linkedin',
+      icon: 'monkeytype',
       quickLaunch: true,
     },
     {
@@ -198,7 +198,7 @@ const CONFIG = {
       key: 'nt',
       url: 'https://www.nordtheme.com',
       color: 'linear-gradient(112deg, rgba(46,52,64,1) 0%, rgba(52,52,59,1) 43%, rgba(76,86,106,1) 100%)',
-      icon: 'notion',
+      icon: 'nord',
       quickLaunch: true,
     },
     {
