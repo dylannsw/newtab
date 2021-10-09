@@ -73,9 +73,9 @@ const CONFIG = {
     },
     {
       category: 'Programming',
-      name: 'Profiles',
-      key: 'p',
-      url: 'about:profiles',
+      name: 'ColourPicker',
+      key: 'cp',
+      url: 'https://www.webfx.com/web-design/color-picker',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #53341C, #F48024)',
       icon: 'stackoverflow',
