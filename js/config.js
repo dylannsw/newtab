@@ -28,7 +28,7 @@ const CONFIG = {
       key: 'd',
       url: 'https://drive.google.com',
       search: '/drive/search?q={}',
-      color: 'linear-gradient(135deg, #FFD04B, #1EA362, #4688F3)',
+      color: 'linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);',
       icon: 'drive',
       quickLaunch: false,
     },
@@ -77,7 +77,7 @@ const CONFIG = {
       key: 'cp',
       url: 'https://www.webfx.com/web-design/color-picker',
       search: '/search?q={}',
-      color: 'linear-gradient(135deg, #53341C, #F48024)',
+      color: 'linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);',
       icon: 'colourpicker',
       quickLaunch: true,
     },
@@ -143,7 +143,6 @@ const CONFIG = {
       name: 'Pinterest',
       key: 'pi',
       url: 'https://www.pinterest.com',
-      search: '/directory/game/{}',
       color: 'linear-gradient(68.3deg, rgba(245,177,97,1) 0.4%, rgba(236,54,110,1) 100.2% );',
       icon: 'pinterest',
       quickLaunch: true,
@@ -164,7 +163,7 @@ const CONFIG = {
       key: 't',
       url: 'https://www.twitter.com',
       search: '/search?q={}&src=typed_query',
-      color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
+      color: 'linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)',
       icon: 'twitter',
       quickLaunch: true,
     },
@@ -173,7 +172,7 @@ const CONFIG = {
       name: 'Instagram',
       key: 'i',
       url: 'https://www.instagram.com',
-      color: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)',
+      color: 'linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);',
       icon: 'instagram',
       quickLaunch: true,
     },
@@ -202,12 +201,12 @@ const CONFIG = {
       key: 'tr',
       url: 'https://translate.google.com/',
       search: '/#view=home&op=translate&sl=auto&tl=en&text={}',
-      color: '#1a73e8',
+      color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
       icon: 'translate',
       quickLaunch: false,
     },
   ],
-
+  
   /**
    * Get suggestions as you type.
    */
@@ -229,15 +228,15 @@ const CONFIG = {
     },
     {
       name: 'Default',
-      limit: 0
+      limit: 1
     },
     {
       name: 'History',
-      limit: 4
+      limit: 3
     },
     {
       name: 'DuckDuckGo',
-      limit: 4
+      limit: 0
     },
   ],
 
@@ -279,7 +278,7 @@ const CONFIG = {
    * The delimiter between a command key and your search query. For example,
    * to search GitHub for potatoes, you'd type "g:potatoes".
    */
-  searchDelimiter: ':',
+  searchDelimiter: ';',
 
   /**
    * The delimiter between a command key and a path. For example, you'd type
