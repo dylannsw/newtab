@@ -198,7 +198,7 @@ const CONFIG = {
     {
       category: 'Other',
       name: 'Love',
-      key: 'yeexuean',
+      key: 'yx',
       url: 'https://i.imgur.com/LxY9PBa.jpg',
       color: 'url("https://i.imgur.com/LxY9PBa.jpg") no-repeat center center fixed',
       icon: 'Love',
