@@ -200,7 +200,7 @@ const CONFIG = {
       name: 'Love',
       key: 'yx',
       url: 'https://i.imgur.com/vTVqqSw.jpg',
-      color: 'url("https://i.imgur.com/vTVqqSw.jpg") no-repeat center cover',
+      color: 'url("https://i.imgur.com/vTVqqSw.jpg") no-repeat cover',
       icon: 'Love',
       quickLaunch: false,
     },
