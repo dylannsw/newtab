@@ -97,7 +97,7 @@ const CONFIG = {
       url: 'https://icons8.com/icons',
       search: '/search?q={}',
       color: '#d8dee9',
-      icon: 'icon',
+      icon: 'icons',
       quickLaunch: true,
     },
     {
