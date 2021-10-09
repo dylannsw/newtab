@@ -198,9 +198,9 @@ const CONFIG = {
     {
       category: 'Other',
       name: 'Love',
-      key: 'yeexuean',
+      key: 'yx',
       url: 'https://i.imgur.com/vTVqqSw.jpg',
-      color: 'url("https://i.imgur.com/vTVqqSw.jpg") no-repeat cover',
+      color: 'url("https://i.imgur.com/vTVqqSw.jpg") no-repeat centerbackground-size:cover',
       icon: 'Love',
       quickLaunch: false,
     },
@@ -223,19 +223,19 @@ const CONFIG = {
    */
   influencers: [{
       name: 'Commands',
-      limit: 0
+      limit: 4
     },
     {
       name: 'Default',
-      limit: 1
+      limit: 4
     },
     {
       name: 'History',
-      limit: 3
+      limit: 4
     },
     {
       name: 'DuckDuckGo',
-      limit: 0
+      limit: 4
     },
   ],
 
