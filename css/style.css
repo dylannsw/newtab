@@ -365,13 +365,14 @@ body.suggestions .search-suggestions {
 }
 
 .command-key {
-  border-radius: 50%;
+  border: 0px solid #ffca61 !important;
   width: 2rem;
   height: 2rem;
   margin-right: 1rem;
-  font-size: 0.75rem;
-  font-weight: 800;
-  line-height: 1.5rem;
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight:800;
+  line-height: 0.5rem;
   text-align: center;
 }
 
