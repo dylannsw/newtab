@@ -25,7 +25,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Drive',
-      key: 'd',
+      key: 'dr',
       url: 'https://drive.google.com',
       search: '/drive/search?q={}',
       color: 'linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);',
@@ -44,7 +44,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'WhatsApp',
-      key: 'w',
+      key: 'wa',
       url: 'https://web.whatsapp.com',
       color: 'linear-gradient(135deg, #25D366, #128C7E, #075E54)',
       icon: 'whatsapp',
@@ -160,7 +160,7 @@ const CONFIG = {
     {
       category: 'Other',
       name: 'Twitter',
-      key: 't',
+      key: 'tw',
       url: 'https://www.twitter.com',
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)',
@@ -170,7 +170,7 @@ const CONFIG = {
     {
       category: 'Other',
       name: 'Instagram',
-      key: 'i',
+      key: 'ig',
       url: 'https://www.instagram.com',
       color: 'linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);',
       icon: 'instagram',
