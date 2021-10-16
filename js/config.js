@@ -125,7 +125,7 @@ const CONFIG = {
       key: 'r',
       url: 'https://reddit.com',
       search: '/search?q={}',
-      color: 'linear-gradient( 97.3deg,  rgba(25,50,70,0.81) 10.7%, rgba(155,65,25,0.72) 39.5%, rgba(255,192,0,0.81) 69.7% )',
+      color: 'linear-gradient( 111.1deg,  rgba(0,40,70,1) -4.8%, rgba(255,115,115,1) 82.7%, rgba(255,175,123,1) 97.2% )',
       icon: 'reddit',
       quickLaunch: false,
     },
