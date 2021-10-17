@@ -127,7 +127,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient( 111.1deg,  rgba(0,40,70,1) -4.8%, rgba(255,115,115,1) 82.7%, rgba(255,175,123,1) 97.2% )',
       icon: 'reddit',
-      quickLaunch: false,
+      quickLaunch: true,
     },
     {
       category: 'Fun',
