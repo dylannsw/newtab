@@ -64,7 +64,7 @@ const CONFIG = {
     {
       category: 'Programming',
       name: 'GitHub',
-      key: 'g',
+      key: 'gi',
       url: 'https://github.com',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
@@ -200,7 +200,7 @@ const CONFIG = {
       name: 'Ristonia',
       key: 'ris',
       url: 'https://ristonia.net/usersettings',
-      color: 'url("https://i.imgur.com/4tKAaKu.jpg") no-repeat center center fixed',
+      color: 'url("https://i.imgur.com/mKMGklz.jpg") no-repeat center center fixed',
       icon: 'Maple',
       quickLaunch: true,
     },
