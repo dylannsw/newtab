@@ -149,12 +149,11 @@ const CONFIG = {
     },
     {
       category: 'Fun',
-      name: 'Spotify',
-      key: 's',
-      url: 'https://open.spotify.com/',
-      search: '/search/{}',
-      color: 'linear-gradient(132deg, #F4D03F 0%, #16A085 100%',
-      icon: 'spotify',
+      name: 'Maple',
+      key: 'maple
+      url: 'https://maplestory.nexon.com/Home/Main',
+      color: 'url("https://i.imgur.com/Lg27Fny.jpg") no-repeat center center fixed',
+      icon: 'Maple',
       quickLaunch: true,
     },
     {
