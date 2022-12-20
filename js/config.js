@@ -200,7 +200,7 @@ const CONFIG = {
       key: 'notion',
       url: 'https://www.notion.so/',
       color: 'linear-gradient(90deg, rgba(31,31,31,1) 0%, rgba(75,75,75,1) 52%, rgba(255,255,255,1) 100%)',
-      icon: 'Spotify',
+      icon: 'notion',
       quickLaunch: true,
     },
   ],
