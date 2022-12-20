@@ -153,7 +153,7 @@ const CONFIG = {
       key: 'maple',
       url: 'https://maplestory.nexon.com/Home/Main',
       color: 'url("https://i.imgur.com/Lg27Fny.jpg") no-repeat center center fixed',
-      icon: 'Maple',
+      icon: 'maple',
       quickLaunch: true,
     },
     {
