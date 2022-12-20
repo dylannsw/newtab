@@ -150,7 +150,7 @@ const CONFIG = {
     {
       category: 'Fun',
       name: 'Maple',
-      key: 'maple
+      key: 'maple',
       url: 'https://maplestory.nexon.com/Home/Main',
       color: 'url("https://i.imgur.com/Lg27Fny.jpg") no-repeat center center fixed',
       icon: 'Maple',
@@ -196,11 +196,11 @@ const CONFIG = {
     },
     {
       category: 'Other',
-      name: 'Ristonia',
-      key: 'ris',
-      url: 'https://ristonia.net/usersettings',
-      color: 'url("https://i.imgur.com/mKMGklz.jpg") no-repeat center center fixed',
-      icon: 'Maple',
+      name: 'Notion',
+      key: 'notion',
+      url: 'https://www.notion.so/',
+      color: 'linear-gradient(90deg, rgba(31,31,31,1) 0%, rgba(75,75,75,1) 52%, rgba(255,255,255,1) 100%)',
+      icon: 'Spotify',
       quickLaunch: true,
     },
   ],
