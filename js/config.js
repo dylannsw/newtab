@@ -83,11 +83,11 @@ const CONFIG = {
     },
     {
       category: 'Programming',
-      name: 'Nordtheme',
-      key: 'nt',
-      url: 'https://www.nordtheme.com',
+      name: 'Translate',
+      key: 'tr',
+      url: 'https://translate.yandex.com/ocr?',
       color: 'linear-gradient(112deg, rgba(46,52,64,1) 0%, rgba(52,52,59,1) 43%, rgba(76,86,106,1) 100%)',
-      icon: 'nord',
+      icon: 'translate',
       quickLaunch: true,
     },
     {
